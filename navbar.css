@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.nav{
+    position: fixed;
+    background-color: yellow;
+    width: 100%;
+}
+
+li{
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 80px;  
+}
+
+li a{
+    text-decoration: none;
+}
+
+li img{
+    width: 100px;
+    position: relative;
+    top:7px;
+}
