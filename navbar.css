@@ -25,3 +25,7 @@ li img{
     position: relative;
     top:7px;
 }
+
+li a:hover{
+    color: black;
+}
